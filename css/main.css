@@ -637,7 +637,7 @@ a.plus:hover, a.plus:focus, a.plus:active {
 #mybg {
   width: 100%;
   position: relative;
-  background-image: url(/images/fank-sp.jpg);
+  background-image: url(../images/fank-sp.jpg);
   background-color: black;
   background-size: cover;
   background-position: left;

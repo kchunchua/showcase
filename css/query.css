@@ -271,7 +271,7 @@
   #mybg {
     width: 100%;
     position: relative;
-    background-image: url(/images/fank.jpg);
+    background-image: url(../images/fank.jpg);
     background-color: black;
     background-size: cover;
     background-position: center;
