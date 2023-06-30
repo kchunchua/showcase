@@ -29,7 +29,7 @@ var myself = bodymovin.loadAnimation({
 	loop: false,
 	autoplay: false,
 	hideOnTransparent: true,
-	path: '../../images/avatar/myself.json'
+	path: 'images/avatar/myself.json'
 })
 
 $('#myself-tab').click(function () {
@@ -43,7 +43,7 @@ var edu = bodymovin.loadAnimation({
 	loop: false,
 	autoplay: false,
 	hideOnTransparent: true,
-	path: '../../images/avatar/edu.json'
+	path: 'images/avatar/edu.json'
 })
 
 $('#edu-tab').click(function () {
@@ -57,7 +57,7 @@ var goal = bodymovin.loadAnimation({
 	loop: false,
 	autoplay: false,
 	hideOnTransparent: true,
-	path: '../../images/avatar/goal.json'
+	path: 'images/avatar/goal.json'
 })
 
 $('#goal-tab').click(function () {
