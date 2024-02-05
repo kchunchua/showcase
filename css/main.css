@@ -63,7 +63,8 @@ body {
   height: auto;
 }
 .logo-link:hover,
-.logo-link:focus {
+.logo-link:focus,
+.logo-link:active {
   background: transparent;
 }
 
